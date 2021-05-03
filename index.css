@@ -8,9 +8,10 @@ body {
   max-width: 1140px;
   min-height: 100vh;
   margin: 0;
-  padding: 0 auto;
+  padding-bottom: 0;
+  padding: auto;
   font-family: 'Prompt', sans-serif;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1.2;
 }
 
@@ -46,12 +47,12 @@ a:hover {
 
 @media screen and (min-width: 960px) {
   body {
-    font-size: 54px;
+    font-size: 45px;
   }
 }
 
 @media screen and (min-width: 1200px) {
   body {
-    font-size: 60px;
+    font-size: 50px;
   }
 }
