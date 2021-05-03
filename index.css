@@ -7,10 +7,11 @@ body {
   height: 100vh;
   max-width: 1140px;
   min-height: 100vh;
+  margin: 0;
+  padding: 0 auto;
   font-family: 'Prompt', sans-serif;
   font-size: 48px;
   line-height: 1.2;
-  text-align: justify;
 }
 
 #hi {
