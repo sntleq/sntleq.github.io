@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+body {
+  background-color: #272640;
+  color: #006466;
+  width: 95%;
+  max-width: 1140px;
+  font-family: 'Krona One', sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-height: 95vh;
+  margin: 0;
+  padding: 1em auto;
+}
+
+a {
+  text-decoration: none;
+  color: #006466;
+}
+
+a:visited {
+    color: #4D194D;
+}
+
+a:hover {
+    text-decoration: underline;
+}
