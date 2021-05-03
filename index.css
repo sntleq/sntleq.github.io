@@ -1,11 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
 
 body {
-  background-color: #272640;
-  color: #006466;
+  background-color: #691111;
+  color: white;
   width: 95%;
   max-width: 1140px;
-  font-family: 'Krona One', sans-serif;
+  font-family: 'Prompt', sans-serif;
+  font-size: 48px;
+  line-height: 1.2;
 }
 
 img {
@@ -18,11 +20,11 @@ img {
 
 a {
   text-decoration: none;
-  color: #006466;
+  color: white;
 }
 
 a:visited {
-    color: #4D194D;
+    color: #F6C6C6;
 }
 
 a:hover {
