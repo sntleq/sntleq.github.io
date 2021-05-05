@@ -6,7 +6,6 @@ body {
   width: 95%;
   height: 100vh;
   max-width: 1140px;
-  min-height: 100vh;
   margin: 0 auto;
   padding: auto;
   font-family: 'Prompt', sans-serif;
@@ -17,7 +16,9 @@ body {
 
 #hi {
   margin: 0;
-  padding: auto 0;
+  height: 0;
+  vertical-align: center;
+  border: 2px solid yellow;
 }
 
 img {
